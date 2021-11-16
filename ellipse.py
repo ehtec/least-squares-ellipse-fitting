@@ -1,7 +1,7 @@
 import numpy as np
 import numpy.linalg as la
 
-__version__ = '3.0.1'
+__version__ = '3.0.2'
 
 
 class LsqEllipse:
