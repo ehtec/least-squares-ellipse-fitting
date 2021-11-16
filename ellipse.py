@@ -24,7 +24,7 @@ class LsqEllipse:
     Examples
     --------
     >>> import numpy as np
-    >>> from sklearn.linear_model import LsqEllipse
+    >>> from ellipse import LsqEllipse
     >>> x = np.array([ 1.,  0., -1., -0.,  1.])
     >>> y = np.array([ 0. ,  0.5,  0. , -0.5, -0. ])
     >>> X = np.c_[x, y]
